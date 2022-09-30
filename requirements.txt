@@ -1,6 +1,6 @@
 certifi==2019.6.16
 fastcache==1.1.0
-joblib==0.13.2
+joblib==1.2.0
 mkl-service==2.1.0
 mpmath==1.1.0
 numpy==1.17.0
