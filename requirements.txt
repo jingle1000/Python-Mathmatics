@@ -1,4 +1,4 @@
-certifi==2019.6.16
+certifi==2022.12.7
 fastcache==1.1.0
 joblib==0.13.2
 mkl-service==2.1.0
